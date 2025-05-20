@@ -338,6 +338,10 @@ Pyka
   https://flypyka.com
   Pilotless, short takeoff and landing electric airplanes large enough to carry humans. We're starting with autonomous crop dusting
 
+Quicklly
+https://www.quicklly.com
+Quicklly is an online Indian marketplace offering everything from fresh Indian groceries to ready-to-eat meals and more.
+
 Quilt Data
   https://quiltdata.com
   Quilt is creating Docker for data. Large enterprises in banking and clean energy use Quilt to deploy, version, and audit their data
